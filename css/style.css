@@ -1,0 +1,71 @@
+body{
+  background: url(" http://www.wallisme.com/wp-content/uploads/2016/02/White-Wallpaper-127WLI.jpg");
+ 
+  text-align:center;
+  
+}
+h1 {
+  color: brown;
+  font-size: 50px;
+  font-family: "Impact", Charcoal, sans-serif;
+  }
+#whatevs {
+  padding: 100px;
+  background: url("http://confluencecapitalpartners.com/wp-content/uploads/2013/10/Fire.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 30%
+    
+}
+img {
+  width: 300px;
+  
+}
+p
+{
+  color: brown;
+  font-size: 20px;
+  font-family:"Impact", Charcoal, sans-serif;
+  
+}
+a{
+  font-size: 30px;
+  text-decoration:--;
+  color:brown;
+  font-family:"Impact", Charcoal, sans-serif;
+}
+div {
+  display: block;
+}
+button {
+  background-color:  #f44336;
+  padding: 20px;
+  color: white;
+  border: none;
+}
+#p0tat0 {
+  position: absolute;
+  animation: p0tat0 5s infinite; 
+}
+@-webkit-keyframes p0tat0 {
+  0%{
+    top:15%;
+    left:15%;
+  }
+  25%{
+    top:5%;
+    left: 85%;
+  }
+  50%{
+    top:75%;
+    left:90%;
+  }
+  75%{
+    top:85%;
+    left:5%;
+  }
+  100%{
+    top:15%;
+    left:15%;
+  }
+}
