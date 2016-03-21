@@ -1390,7 +1390,7 @@
 		-webkit-transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		-ms-transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
-		color: #35b88f;
+		color: #fff;
 		text-shadow: 0 0 0.5px rgba(53, 184, 143, 0.25);
 		text-decoration: none;
 		border-bottom: dotted 1px rgba(53, 184, 143, 0.5);
@@ -1574,6 +1574,11 @@
 			padding-left: 1.25em;
 			margin-top: 1.5em;
 		}
+
+	.ph-list-mod {
+		text-align: right;
+		color: #fff;
+	}
 
 /* Form */
 
